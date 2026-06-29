@@ -206,7 +206,7 @@ After completing this project, you will be able to:
 ├── README.md
 └── images/
 ```
-
+https://github.com/zebasameerkanwade/Data_cleaning-costumer_dataset/edit/main/README.md
 ---
 
 ## ▶️ How to Run
@@ -214,7 +214,7 @@ After completing this project, you will be able to:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-data-cleaning.git
+
 ```
 
 ### Install Required Library
