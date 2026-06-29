@@ -209,13 +209,11 @@ After completing this project, you will be able to:
 ---
 
 ## ▶️ How to Run
-``
-https://github.com/zebasameerkanwade/Data_cleaning-costumer_dataset/edit/main/README.md`
-```
+
 ### Clone the Repository
 
 ```bash
-
+https://github.com/zebasameerkanwade/Data_cleaning-costumer_dataset/edit/main/README.md
 ```
 
 ### Install Required Library
